@@ -8,6 +8,12 @@ gem 'pg'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 
+#factory_girl for tests
+gem 'factory_girl'
+
+#faker
+gem 'faker'
+
 #Bootstrap
 gem 'bootstrap-sass', '~> 3.3.5'
 
