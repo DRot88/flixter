@@ -20,6 +20,9 @@ gem 'figaro'
 #fog for carrierwave to interact with amazon
 gem 'fog'
 
+#mini_magick for image upload resizing
+gem 'mini_magick'
+
 #faker
 gem 'faker'
 
