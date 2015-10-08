@@ -17,8 +17,8 @@ gem 'carrierwave'
 #figaro for amazons3 images
 gem 'figaro'
 
-#fog for carrierwave to interact with amazon
-gem 'fog'
+#carrierwave-aws for video uploading
+gem 'carrierwave-aws'
 
 #mini_magick for image upload resizing
 gem 'mini_magick'
