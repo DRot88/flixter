@@ -14,6 +14,12 @@ gem 'factory_girl'
 #carrierwave for image upload
 gem 'carrierwave'
 
+#figaro for amazons3 images
+gem 'figaro'
+
+#fog for carrierwave to interact with amazon
+gem 'fog'
+
 #faker
 gem 'faker'
 
