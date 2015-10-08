@@ -11,6 +11,9 @@ gem 'sass-rails', '~> 5.0'
 #factory_girl for tests
 gem 'factory_girl'
 
+#carrierwave for image upload
+gem 'carrierwave'
+
 #faker
 gem 'faker'
 
