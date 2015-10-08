@@ -4,8 +4,12 @@
   <h1>Add a new course</h1>
   <%= simple_form_for @course, :url => instructor_courses_path do |f| %>
     <%= f.input :title %>
+  </br>
     <%= f.input :description %>
+  </br>
     <%= f.input :cost %>
+  </br> 
+    <%= f.input :image %>
   </br>
     <%= f.submit 'Create', :class => 'btn btn-primary' %>
   </br>
