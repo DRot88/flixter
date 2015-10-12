@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 #awesome_print for easier console reading
 gem 'awesome_print'
 
+#stripe for credit card processing
+gem 'stripe'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
 # Use postgresql as the database for Active Record
