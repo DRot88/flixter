@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 #awesome_print for easier console reading
 gem 'awesome_print'
 
+#ranked-model for ordering lessons
+gem 'ranked-model'
+
 #stripe for credit card processing
 gem 'stripe'
 
